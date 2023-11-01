@@ -1,0 +1,23 @@
+{
+  "name": "platzitravel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/tailwind.css -o ./public/css/tailwind.css --watch",
+    "build": "npx tailwindcss ./src/css/tailwind.css -o ./public/css/tailwind.css --minify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Barquera",
+  "license": "MIT",
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.10",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.4"
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/forms": "^0.5.6"
+  }
+}
