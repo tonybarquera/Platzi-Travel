@@ -8,13 +8,11 @@ Platzi Travel is a frontend project, using Tailwind CSS.
 ### Desktop Light Mode
 ![Platzi Travel](https://github.com/tonybarquera/Platzi-Travel/blob/main/public/img/desktop-light.webp)
 
-<div style='display: flex;'>
-  <div width='50%'>
-    <h3>Mobile Dark Mode</h3>
-    <img src="https://github.com/tonybarquera/Platzi-Travel/blob/main/public/img/mobile-dark.webp" width='50%'>
-  </div>
-  <div width='50%'>
-    <h3>Mobile Light Mode</h3>
-    <img src="https://github.com/tonybarquera/Platzi-Travel/blob/main/public/img/mobile-light.webp" width='50%'>
-  </div>
-</div>
+<a href='#'>
+  <h3>Mobile Dark Mode</h3>
+  <img src="https://github.com/tonybarquera/Platzi-Travel/blob/main/public/img/mobile-dark.webp" width='50%'>
+</a>
+<a href='#'>
+  <h3>Mobile Light Mode</h3>
+  <img src="https://github.com/tonybarquera/Platzi-Travel/blob/main/public/img/mobile-light.webp" width='50%'>
+</a>
